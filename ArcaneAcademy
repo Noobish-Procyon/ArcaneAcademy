@@ -1,0 +1,15 @@
+ArcaneAcademy/
+│
+├── index.html
+├── css/
+│   └── style.css
+└── js/
+    ├── save.js
+    ├── player.js
+    ├── items.js
+    ├── enemies.js
+    ├── quests.js
+    ├── map.js
+    ├── combat.js
+    ├── mapMovement.js
+    └── main.js
